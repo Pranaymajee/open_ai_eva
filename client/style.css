@@ -128,3 +128,13 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+@media (max-width: 992px) {
+  .chat {
+    width: 100%;
+  }
+
+  form {
+    width: 100%;
+  }
+}
